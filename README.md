@@ -114,7 +114,7 @@ I believe in:
 
 ---
 
-### 🧪 Quick Snippets (Optional)
+### 🧪 Quick Snippets
 ```text
 Mantra: Ship clarity. Maintain integrity. Enable intelligence.
 ```
