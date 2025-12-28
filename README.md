@@ -84,7 +84,7 @@ I believe in:
 
 ### 📊 Languages Snapshot
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaiDonatsu&layout=compact&theme=radical&hide_border=true&cache=1" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaiDonatsu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
